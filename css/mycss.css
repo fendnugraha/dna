@@ -26,3 +26,7 @@ html, body {
     background-position: right top;
     background-attachment: fixed;
 }
+
+.jumbotron, section {
+    height: 100vh;
+}
